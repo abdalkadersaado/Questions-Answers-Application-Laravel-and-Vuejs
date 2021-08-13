@@ -21,3 +21,5 @@
       * vote on answer (like or dislike)
       * Filtering my answers
       * policy on some actions
+    
+  * Using Api laravel for building single page application using Vuejs
