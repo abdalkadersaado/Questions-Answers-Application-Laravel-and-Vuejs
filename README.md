@@ -1,6 +1,6 @@
 # Questions-Answers-Application-Laravel-and-Vuejs
 ## Features:
-  * Register and Loging to application 
+  * Register and Login to application 
   * Questions: 
       * Create,  for create  new question 
       * Update, for update question
