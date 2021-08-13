@@ -1,4 +1,5 @@
 # Questions-Answers-Application-Laravel-and-Vuejs
+    A question discussion application, the question is asked by a user and other users interact with it
 ## Features:
   * Register and Login to application 
   * Questions: 
