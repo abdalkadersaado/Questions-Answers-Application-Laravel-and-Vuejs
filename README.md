@@ -22,4 +22,12 @@
       * Filtering my answers
       * policy on some actions
     
-  * Using Api laravel for building single page application using Vuejs
+  * Using Api laravel for building single page application using Vuejs5-
+## How can I use it :
+   1- git clone or download project 
+   2- composer install
+   3- copy .env.Example and rename to .env file
+   3- php artisan migrate
+   4- npm install
+   5- npm run dev
+   6- php artisan serve
