@@ -9,6 +9,7 @@
       * save, question as favorite question
       * save, question as best_answer
       * vote, on question (like or dislike)
+      * using Markdown when ask question and preview before published
       * Filtering my questions
       * policy on some actions
     
